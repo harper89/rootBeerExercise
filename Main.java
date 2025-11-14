@@ -1,4 +1,4 @@
-public class RootBeerSong {
+public class Main {
    public static void main(String[] args) {
       singRootBeerSong(5);
    }
